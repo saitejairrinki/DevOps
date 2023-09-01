@@ -1,7 +1,6 @@
-# DevOps
----
+# DevOps Training Components
 
-🐧 **Linux Essentials 🐧**
+## 🐧 **Linux Essentials 🐧**
 
 - **Basic Commands**: Navigate the Linux environment effortlessly 📂
 - **VIM Editor**: Master the efficient text editor for coding and scripting ✍️
@@ -12,7 +11,7 @@
 - **RedHat & Debian OS**: Explore the two leading Linux distributions 🐞
 - **Application Servers**: Nginx, Apache2, Httpd - Serving with grace 🌐
 
-💻 **Bash Scripting Brilliance 💻**
+## 💻 **Bash Scripting Brilliance 💻**
 
 - **Scripting Fundamentals**: Unleash the power of automation 🤖
 - **Variables & Arguments**: Store and manipulate data effectively 📝
@@ -20,11 +19,11 @@
 - **Loops & Conditions**: Automate repetitive tasks seamlessly 🔁
 - **Functions**: Organize code with reusable functions 🔄
 
-🔌 **Networking Essentials 🔌**
+## 🔌 **Networking Essentials 🔌**
 
 - **Computer Networking Basics**: Understand the foundation of networks 🌐
 
-☁️ **AWS Cloud Wizardry ☁️**
+## ☁️ **AWS Cloud Wizardry ☁️**
 
 - **EC2 Instances**: Launch virtual servers in the cloud 🚀
 - **EFS**: Set up scalable file storage with ease 🗂️
@@ -41,18 +40,23 @@
 - **Security Groups & Protocols**: Shield your cloud resources 🛡️
 - **SNS Messaging**: Stay informed with notifications 📬
 
-🌐 **Cloud CLI Mastery 🌐**
+## 🌐 **Cloud CLI Mastery 🌐**
 
 - **AWS CLI or Azure CLI**: Command-line control of your cloud resources ⌨️
 
-🐙 **GitHub Greatness 🐙**
+## 🐙 **GitHub Greatness 🐙**
 
 - **Introduction to GitHub**: Navigate the world of version control 📜
 - **GitHub Commands**: Commands for collaboration and control ⚙️
 - **GitHub Pages Deployment**: Showcase your projects online 🌐
 - **GitHub Integrations**: Connect and streamline your workflows 🔗
 
-🚀 **Azure DevOps Awesomeness 🚀**
+## 🔒 **DNS & SSL Mastery 🔒**
+
+- **Domain Setup & DNS Records**: Establish domain presence and configure DNS 🌐
+- **Generating SSL Certificates**: Secure your websites with Let's Encrypt 🛡️
+
+## 🚀 **Azure DevOps Awesomeness 🚀**
 
 - **Azure Repos**: Manage your code repositories with Azure 📁
 - **Build & Release Pipelines**: Automate your development lifecycle 🔄
@@ -61,7 +65,15 @@
 - **Azure DevOps Administration**: Control and manage your DevOps environment 🛠️
 - **CICD Website Deployment**: Deploy websites seamlessly with CI/CD 🚀
 
-🌍 **Terraform Transformation 🌍**
+## 🚀 **Jenkins Continuous Integration 🚀**
+
+- **Installation & Setup**: Configure Jenkins for continuous integration 🛠️
+- **CICD Implementation**: Automate your software delivery pipeline 🚀
+- **GitHub Integration**: Seamlessly integrate Jenkins with GitHub 🔄
+- **Jenkins Administration**: Manage Jenkins and plugins effectively 🏢
+- **Working with Free-Style Pipelines**: Customize your build process 🔧
+
+## 🌍 **Terraform Transformation 🌍**
 
 - **Terraform Installation**: Set up your infrastructure as code tool 🏗️
 - **Sample Script Creation**: Dive into creating infrastructure with code 📜
@@ -70,7 +82,7 @@
 - **Remote State Management**: Store your state files remotely 🗃️
 - **Integrating with Azure DevOps**: Seamless combination for efficient deployments 🔗
 
-🤖 **Ansible Automation 🤖**
+## 🤖 **Ansible Automation 🤖**
 
 - **Installation & Setup**: Prepare your environment for automation 🏭
 - **AdHoc Commands**: Execute quick commands across servers ⚡
@@ -82,7 +94,7 @@
 - **Website Deployment with Ansible**: Deploy websites effortlessly 🌐
 - **Ansible Roles**: Organize your automation tasks effectively 🧩
 
-🐳 **Diving into Docker 🐳**
+## 🐳 **Diving into Docker 🐳**
 
 - **Introduction to Docker**: Discover the world of containerization 📦
 - **Docker Installation**: Set up the container platform on your system 🚀
@@ -91,7 +103,7 @@
 - **Dockerfile**: Build custom container images with ease 📁
 - **Docker Compose**: Orchestrate multi-container applications effortlessly 🎵
 
-☸️ **Kubernetes Unleashed ☸️**
+## ☸️ **Kubernetes Unleashed ☸️**
 
 - **Introduction to Kubernetes**: Enter the realm of container orchestration 🚢
 - **Cluster Creation**: Set up Kubernetes clusters for your applications 🌐
@@ -100,17 +112,4 @@
 - **Replication Controller & Deployment**: Ensure scalability and availability 🔄
 - **Secrets & ConfigMap**: Manage sensitive data and configuration ⚙️
 
-🚀 **Jenkins Continuous Integration 🚀**
-
-- **Installation & Setup**: Configure Jenkins for continuous integration 🛠️
-- **CICD Implementation**: Automate your software delivery pipeline 🚀
-- **GitHub Integration**: Seamlessly integrate Jenkins with GitHub 🔄
-- **Jenkins Administration**: Manage Jenkins and plugins effectively 🏢
-- **Working with Free-Style Pipelines**: Customize your build process 🔧
-
-🔒 **DNS & SSL Mastery 🔒**
-
-- **Domain Setup & DNS Records**: Establish domain presence and configure DNS 🌐
-- **Generating SSL Certificates**: Secure your websites with Let's Encrypt 🛡️
-
-Get ready to unlock a world of technical expertise and innovation with this comprehensive course curriculum! 🚀📚🌟
+***Get ready to unlock a world of technical expertise and innovation with this comprehensive course curriculum!*** 🚀📚🌟
