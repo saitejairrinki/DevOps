@@ -100,4 +100,17 @@
 - **Replication Controller & Deployment**: Ensure scalability and availability 🔄
 - **Secrets & ConfigMap**: Manage sensitive data and configuration ⚙️
 
+🚀 **Jenkins Continuous Integration 🚀**
+
+- **Installation & Setup**: Configure Jenkins for continuous integration 🛠️
+- **CICD Implementation**: Automate your software delivery pipeline 🚀
+- **GitHub Integration**: Seamlessly integrate Jenkins with GitHub 🔄
+- **Jenkins Administration**: Manage Jenkins and plugins effectively 🏢
+- **Working with Free-Style Pipelines**: Customize your build process 🔧
+
+🔒 **DNS & SSL Mastery 🔒**
+
+- **Domain Setup & DNS Records**: Establish domain presence and configure DNS 🌐
+- **Generating SSL Certificates**: Secure your websites with Let's Encrypt 🛡️
+
 Get ready to unlock a world of technical expertise and innovation with this comprehensive course curriculum! 🚀📚🌟
