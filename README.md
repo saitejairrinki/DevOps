@@ -23,7 +23,7 @@
 
 - **Computer Networking Basics**: Understand the foundation of networks 🌐
 
-## ☁️ **AWS Cloud Wizardry ☁️**
+## ☁️ **AWS Cloud Platform ☁️**
 
 - **EC2 Instances**: Launch virtual servers in the cloud 🚀
 - **EFS**: Set up scalable file storage with ease 🗂️
