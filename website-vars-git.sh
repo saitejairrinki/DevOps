@@ -1,6 +1,6 @@
 #!/bin/bash
-GIT=git@github.com:tejazelar/tejazelar.github.io.git
-REPO=tejazelar.github.io
+GIT=git@github.com:saitejairrinki/saitejairrinki.github.io
+REPO=saitejairrinki.github.io
 WEBSITE=https://www.tooplate.com/zip-templates/2103_central.zip
 PKG=apt
 FILE=2103_central
