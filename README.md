@@ -108,6 +108,7 @@
 - **Introduction to Kubernetes**: Enter the realm of container orchestration 🚢
 - **Cluster Creation**: Set up Kubernetes clusters for your applications 🌐
 - **KOPS & K3s**: Explore Kubernetes deployment options 🚀
+- **EKS**: Hands-on with Elastic Kubernetes Services in AWS
 - **Containerized Application Hosting**: Deploy apps using Pods, Services, and more 🏟️
 - **Replication Controller & Deployment**: Ensure scalability and availability 🔄
 - **Secrets & ConfigMap**: Manage sensitive data and configuration ⚙️
