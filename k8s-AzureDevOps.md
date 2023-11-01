@@ -31,6 +31,6 @@ Following thorough quality assurance checks, including SonarCloud Quality Gates,
 **Step 9: Replicating the Workflow Across Environments**
 With staging serving as a stable environment, the project ensures the smooth deployment of pre-production and production environments, adhering to the established approval procedures. This uniform approach guarantees consistency and reliability across all deployment stages.
 
-
+![img](https://bitbucket.org/devopslogosgifs/devops/raw/cdd23331909d05d54c32adb1e9c87f48361971e6/staging%20pipelines.JPG)
 
 The seamless integration of 🌩️ Azure DevOps, 🐳 Docker, ☸️ Kubernetes, 🔍 SonarCloud, 🛠️ Terraform, and 💻 PowerShell in the CI/CD pipeline ensures the efficient management and deployment of code changes, allowing for a smooth transition across development, testing, and production environments. 🚀
