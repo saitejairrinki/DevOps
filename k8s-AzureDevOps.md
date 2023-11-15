@@ -2,7 +2,7 @@
 
 The project employs a robust Continuous Integration and Continuous Deployment (CI/CD) approach utilizing Azure DevOps, Docker, Kubernetes, SonarCloud, Terraform, and PowerShell. The key steps of the project implementation are outlined below:
 
-![svg](https://bitbucket.org/devopslogosgifs/azuredevops/raw/d3613b370ba013100539fd61fb8e8e5f4ec9abd5/gif/AKS%20Deployment%20with%20Azure%20DevOps.drawio.svg)
+![svg](https://miro.medium.com/v2/resize:fit:1100/1*EfQoM3P69NdgOeWRxETHqg.gif)
 
 **Step 1: Infrastructure as Code (IAAC) with Azure DevOps** 
 An Azure-based build pipeline is initiated to create the requisite infrastructure, including storage accounts, Azure Key Vault, and virtual machines. This process ensures efficient and scalable resource provisioning.
