@@ -1,15 +1,35 @@
 #!/bin/bash
-sudo apt update
-sudo apt install wget net-tools unzip figlet apache2 -y
-sudo systemctl start apache2
-sudo systemctl enable apache2
+#Website setup
+#Adding variables :-)
+URL=https://templatemo.com/tm-zip-files-2020/templatemo_520_highway.zip
+SRV=apache2
+PKG=apt
+FILE=templatemo_520_highway
+echo "  Installing the Services & Extractors"
+echo
+sudo $PKG install $SRV wget unzip -y &>> /dev/null
+echo "Start & Enabling the Services"
+echo
+sudo systemctl start $SRV
+sudo systemctl enable $SRV
+echo "Downloading the zip file from tooplate.com"
+echo
 mkdir -p webfiles
 cd webfiles
-sudo wget https://www.tooplate.com/zip-templates/2118_chilling_cafe.zip  
-sudo unzip -o 2118_chilling_cafe.zip
+echo
+sudo wget $URL &>> /dev/null
+echo "extracting the files "
+echo
+sudo unzip -o $FILE.zip &>> /dev/null
+echo "copying the extracted file into html"
+echo
+echo "Cleaning files in html Directory"
 sudo rm -rf /var/www/html/*
-sudo cp -r 2118_chilling_cafe/* /var/www/html/
+echo
+sudo cp -r $FILE/* /var/www/html &>> /dev/null
+echo "Restarting the Services"
+sudo systemctl restart $SRV
 cd ..
 sudo rm -rf webfiles
-sudo systemctl restart apache2
-figlet done
+sudo systemctl status $SRV | grep Active
+date
