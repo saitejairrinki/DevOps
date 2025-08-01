@@ -29,7 +29,7 @@
 - **Variables & Arguments**: Store and manipulate data effectively 📝
 - **Basic Script Creation**: Begin your scripting journey 📜
 - **Loops & Conditions**: Automate repetitive tasks seamlessly 🔁
-- **Functions**: Organize code with reusable functions 🔄
+- **Functions**: Organize code with reusable functions 🔄 
 
 ## 🔌 **Networking Essentials 🔌**
 
